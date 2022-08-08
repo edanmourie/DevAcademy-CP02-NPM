@@ -1,0 +1,19 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edanmourie/DevAcademy-CP02-NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edanmourie/DevAcademy-CP02-NPM/issues"
+  },
+  "homepage": "https://github.com/edanmourie/DevAcademy-CP02-NPM#readme"
+}
